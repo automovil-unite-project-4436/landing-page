@@ -7,8 +7,6 @@ import {Button, ButtonDirective} from 'primeng/button';
 @Component({
   selector: 'app-home-page',
   imports: [
-    ButtonDirective,
-    Ripple,
     Button
   ],
   templateUrl: './home-page.component.html',
