@@ -10,7 +10,7 @@ import {
 
 @Component({
   selector: 'app-root',
-  imports: [TranslateModule, HomePageComponent, Button, NavbarComponent, FunctionalitiesPageComponent],
+  imports: [TranslateModule, HomePageComponent, NavbarComponent, FunctionalitiesPageComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
