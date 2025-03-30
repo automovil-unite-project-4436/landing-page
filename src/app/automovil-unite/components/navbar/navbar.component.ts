@@ -10,7 +10,6 @@ import {ThemeSelectorComponent} from '../theme-selector/theme-selector.component
     Ripple,
     StyleClass,
     ButtonDirective,
-    ThemeSelectorComponent
   ],
   templateUrl: './navbar.component.html',
   styleUrl: './navbar.component.css'
