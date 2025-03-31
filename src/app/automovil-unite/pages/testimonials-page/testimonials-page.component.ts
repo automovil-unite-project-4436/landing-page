@@ -9,7 +9,6 @@ import {NgForOf} from '@angular/common';
   selector: 'app-testimonials-page',
   imports: [
     Chip,
-    Rating,
     FormsModule,
     NgForOf
   ],
